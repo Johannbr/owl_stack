@@ -1,0 +1,3 @@
+cd /home/johann/Pictures/Astro/test
+convertraw test_ -debayer
+register test_
